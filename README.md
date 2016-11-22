@@ -31,11 +31,11 @@ Organize and fix bugs detected in production;
 - Want to understand the real impact of your work on the company's growth;
 - Has an inquiring mind and likes to be challenged;
 - Crave for building great products and want to use state of the art technology;
-- Speak, write, and understand English or Italian excellently;
+- Speak, write, and understand English or Italian;
 
 
 #### Relevant back-end skills
-- Object-oriented programming for the Web [PHP (mainly), Java, Ruby, Python];
+- Object-oriented programming for the Web with PHP (mainly);
 - RESTful API Building;
 - Relational database (MySQL, PostgreSQL);
 - Automated testing (unit, functional), Integration testing;
@@ -43,7 +43,7 @@ Organize and fix bugs detected in production;
 
 
 #### Relevant front-end skills
-- Experience in Single-page application development;
+- Experience in Single-page or hybrid application development;
 - AngularJS, JavaScript, HTML, CSS;
 - Grunt, Gulp, Bower, Yeoman etc;
 - Application memory management and performance optimization;
@@ -66,4 +66,4 @@ Organize and fix bugs detected in production;
 We’re on the Alameda Salvador, 1057, Caminho das Árvores; next to Salvador Shopping, Salvador/BA.
 
 **Apply to this job!**
-Send us your résumé to [rh@agilize.com.br](mailto://rh@agilize.com.br) with "Agilize Software Engineer" as the subject.
+Send us your résumé to [dev@agilize.com.br](mailto://dev@agilize.com.br) with "Agilize Software Engineer" as the subject.
